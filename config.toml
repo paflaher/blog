@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Inked Northerner - Bearded, Inked and Awesome"
+paginate = 3
+
+[params]
+dateFormat = "Jan 2, 2006"
